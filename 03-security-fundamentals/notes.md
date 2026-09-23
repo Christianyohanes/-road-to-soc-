@@ -49,3 +49,14 @@ Kenapa penting: laporan ke L2 jadi lebih profesional & konsisten — bukan cuma 
 5. **Eskalasi ke L2** — kasih bukti lengkap (IP, waktu, port, pattern), bukan cuma "ada yang aneh"
 
 ⚠️ SOC L1 tugasnya **triage & investigasi**, BUKAN eksekusi/block sendiri.
+
+## Struktur Halaman MITRE ATT&CK (per technique)
+- **ID** — kode referensi (misal T1110)
+- **Sub-techniques** — varian lebih spesifik dari teknik utama
+- **Description** — penjelasan umum
+- **Procedure Examples** — bukti grup/malware nyata yang pernah pakai
+- **Mitigations** — cara mencegah
+- **Detection** — cara SOC analyst mendeteksi (paling relevan buat kerjaan sehari-hari)
+
+### Contoh: Brute Force (T1110)
+Sub-techniques: Password Guessing (T1110.001), Password Cracking (T1110.002), Password Spraying (T1110.003), Credential Stuffing (T1110.004)
