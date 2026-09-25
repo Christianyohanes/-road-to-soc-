@@ -18,7 +18,7 @@ Dokumentasi journey belajar saya jadi SOC Analyst, dari fundamental sampai (semo
 - [`03-security-fundamentals`](./03-security-fundamentals) — CIA Triad, MITRE ATT&CK, jenis serangan
 - [`04-log-analysis-siem`](./04-log-analysis-siem) — arsitektur Wazuh (SIEM) + pengalaman troubleshooting infrastruktur (disk, RAM, systemd)
 - [`05-tryhackme-writeups`](./05-tryhackme-writeups) — write-up hasil praktik room TryHackMe (SOC Level 1 path)
-- - [`06-incident-response`](./06-incident-response) — 6 tahap NIST IR Framework + peran L1 di tiap tahap
+- [`06-incident-response`](./06-incident-response) — 6 tahap NIST IR Framework + peran L1 di tiap tahap
 
 ## 🎯 Target
 Jadi SOC Analyst dengan pemahaman dasar penetration testing juga, biar ngerti dua sisi (blue team & red team).
