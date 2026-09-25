@@ -16,6 +16,7 @@ Dokumentasi journey belajar saya jadi SOC Analyst, dari fundamental sampai (semo
 - [`01-networking`](./01-networking) — catatan subnetting, TCP/UDP, VLAN + praktik Packet Tracer
 - [`02-os-internals`](./02-os-internals) — catatan Event Viewer & journalctl + analisis log SSH
 - [`03-security-fundamentals`](./03-security-fundamentals) — CIA Triad, MITRE ATT&CK, jenis serangan
+- [`04-log-analysis-siem`](./04-log-analysis-siem) — arsitektur Wazuh (SIEM) + pengalaman troubleshooting infrastruktur (disk, RAM, systemd)
 - [`05-tryhackme-writeups`](./05-tryhackme-writeups) — write-up hasil praktik room TryHackMe (SOC Level 1 path)
 
 ## 🎯 Target
