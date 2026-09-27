@@ -3,6 +3,7 @@ SOC Fundamentals — Course Notes
 Catatan belajar pribadi dari course "SOC Fundamentals" (LetsDefend). Badge: SOC Member — completed 27 Sep 2026
 
 Daftar Materi
+
 1.Introduction to SOC
 
 2.SOC Types and Roles
