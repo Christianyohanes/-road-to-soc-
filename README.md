@@ -11,6 +11,11 @@ Dokumentasi journey belajar saya jadi SOC Analyst, dari fundamental sampai (semo
 - [x] MITRE ATT&CK (lanjutan)
 - [x] Log Analysis & SIEM dasar
 - [x] Incident Response flow
+- [x] LetsDefend SOC Fundamentals (SOC structure, SIEM, Log Management, EDR, SOAR, Threat Intel)
+- [x] Analyst comment writing practice (phishing case analysis via LetsDefend TryDetectThis)
+
+## 🏅 Certifications & Badges
+- **SOC Member** — LetsDefend SOC Fundamentals course (Sep 2026)
 
 ## 📂 Isi Repo
 - [`01-networking`](./01-networking) — catatan subnetting, TCP/UDP, VLAN + praktik Packet Tracer
@@ -19,6 +24,7 @@ Dokumentasi journey belajar saya jadi SOC Analyst, dari fundamental sampai (semo
 - [`04-log-analysis-siem`](./04-log-analysis-siem) — arsitektur Wazuh (SIEM) + pengalaman troubleshooting infrastruktur (disk, RAM, systemd)
 - [`05-tryhackme-writeups`](./05-tryhackme-writeups) — write-up hasil praktik room TryHackMe (SOC Level 1 path)
 - [`06-incident-response`](./06-incident-response) — 6 tahap NIST IR Framework + peran L1 di tiap tahap
+- [`letsdefend`](./letsdefend) — sertifikat & ringkasan course SOC Fundamentals, plus contoh analyst comment (phishing detection case) dari simulasi TryDetectThis
 
 ## 🎯 Target
 Jadi SOC Analyst dengan pemahaman dasar penetration testing juga, biar ngerti dua sisi (blue team & red team).
