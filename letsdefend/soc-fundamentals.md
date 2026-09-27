@@ -4,7 +4,7 @@
 **Completion date:** September 27, 2026
 **Platform:** [LetsDefend](https://letsdefend.io/)
 
-![SOC Member Certificate](./letsdefend/soc-member-certificate.png)
+![SOC Member Certificate](/letsdefend/soc-member-certificate.png)
 
 ## Ringkasan
 
